@@ -1,0 +1,40 @@
+# PUBLICATIONS ONLY. Add new pubs at top.
+# Required fields: title, authors, journal, status, date
+# Status: Submitted -> Review -> Revision -> Published
+
+pub_casereport_pembro_BHT:
+  title: "asdfasdf"
+  authors: ["asdfasdf"]
+  journal: "asdf"
+  status: Submitted
+  date: 2026-01-01
+
+pub_paper_copd_admin:
+  title: "Comparison of Chart Review and Administrative Data in Developing Predictive Models for Readmissions in Chronic Obstructive Pulmonary Disease"
+  authors: ["Chokkara, S.", "Bonomo, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Carey, K.", "Venable, L.", "Rojas, J.C.", "Churpek, M.", "Press, V."]
+  journal: "Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation"
+  status: Revision
+  date: 2024-07-08
+
+pub_casereport_chorda_schwannoma:
+  title: Skull Base Plexiform Schwannoma of Possible Chorda Tympani Nerve Origin in a Three-year-old Patient
+  authors: ["Rama, N.", "Wallance, A", "HEMMRICH, M.J.", "Cipriani, N.", "Pasternak-Wise, O.", "Agrawal, N.", "Imbery, T."]
+  journal: "Otolaryngology Case Reports Vol. 31"
+  status: Published
+  date: 2024-06-01
+
+
+pub_paper_predict_copd:
+  title: Using Machine Learning to Predict Likelihood and Cause of Readmission After Hospitalization for Chronic Obstructive Pulmonary Disease Exacerbation
+  authors: ["Bonomo, M.", "Hermsen, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Rojas, J.C.", "Carey, K.", "Venable, L.", "Churpek, M.", "Press, V."]
+  journal: "International Journal of Chronic Obstructive Pulmonary Disease"
+  status: Published
+  date: 2022-10-01
+
+
+pub_casereport_parathyroid:
+  title: "Large non-functioning substernal parathyroid cyst: A case report and review of the literature"
+  authors: ["Diaz, A.", "Chavez, J.", "HEMMRICH, M.J.", "Smith, H", "Donington, J", "Portugal, L."]
+  journal: "International Journal of Surgery Case Reports"
+  status: Published
+  date: 2022-04-01

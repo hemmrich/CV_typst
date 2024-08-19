@@ -195,8 +195,6 @@
 
 /// Add the title of a section.
 ///
-/// NOTE: If the language is non-Latin, the title highlight will not be sliced.
-///
 /// - title (str): The title of the section.
 /// - highlighted (bool): Whether the first n letters will be highlighted in accent color.
 /// - letters (int): The number of first letters of the title to highlight.
@@ -265,21 +263,25 @@
   )
 
   let entryA1Style(str) = {
-    text(size: 10pt, weight: "bold", str)
+    //text(size: 10pt, weight: "bold", str)
+    text(size: 11pt, weight: "bold", str)
   }
   let entryA2Style(str) = {
     align(
       right,
-      text(weight: "medium", fill: accentColor, style: "oblique", str),
+      //text(weight: "medium", fill: accentColor, style: "oblique", str),
+      text(weight: "medium", fill: accentColor, style: "oblique", size: 10pt, str),
     )
   }
   let entryB1Style(str) = {
-    text(size: 8pt, fill: accentColor, weight: "medium", smallcaps(str))
+    //text(size: 10pt, fill: accentColor, weight: "medium", smallcaps(str))
+    text(size: 11pt, fill: accentColor, weight: "medium", smallcaps(str))
   }
   let entryB2Style(str) = {
     align(
       right,
-      text(size: 8pt, weight: "medium", fill: gray, style: "oblique", str),
+      //text(size: 8pt, weight: "medium", fill: gray, style: "oblique", str),
+      text(size: 9pt, weight: "medium", fill: luma(120), style: "oblique", str),
     )
   }
   let entryDescriptionStyle(str) = {

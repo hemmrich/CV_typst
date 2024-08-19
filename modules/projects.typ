@@ -8,21 +8,22 @@
 #cvSection("Research Projects")
 
 #cvEntry(
-  title: [Oral Premalignancy Progression Prediction, PI: Alexander Pearson, MD, PhD],
+  title: [Oral Premalignancy Progression Prediction | PI: Alexander Pearson, MD, PhD],
   society: [University of Chicago Department of Hematology and Oncology],
   date: [2024-current],
   location: [Chicago, IL],
   description: list(
-    ["UPDATE THIS"]
+    [ASDF]
   ),
 )
 
 #cvEntry(
-  title: [COPD Readmission Prediction, PI: Valerie Press, MD],
+  title: [COPD Readmission Prediction | PI: Valerie Press, MD, MPH],
   society: [University of Chicago Department of Medicine],
   date: [2018-2021],
   location: [Chicago, IL],
   description: list(
+    [PI: Valerie Press, MD, MPH],
     [Built machine learning model using electronic health record data to predict risk of readmission after COPD excerbation],
     [Disseminated findings at international, national, and regional conferences],
     [Received Healthcare Delivery Science Award for research excellence at 2018 Pritzker Summer Research Forum],
@@ -32,7 +33,7 @@
 )
 
 #cvEntry(
-  title: [Head & Neck Cancer Recurrence Database, PI: Alexander Pearson, MD, PhD],
+  title: [Head & Neck Cancer Recurrence Database | PI: Alexander Pearson, MD, PhD],
   society: [University of Chicago Department of Medicine],
   date: [2020-2021],
   location: [Chicago, IL],
@@ -43,7 +44,7 @@
 )
 
 #cvEntry(
-  title: [COVID-19 Natural History, PI: Renslow Sherer, MD],
+  title: [COVID-19 Natural History | PI: Renslow Sherer, MD],
   society: [University of Chicago Department of Medicine],
   date: [2020-2021],
   location: [Chicago, IL],

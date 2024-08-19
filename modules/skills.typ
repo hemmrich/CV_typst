@@ -8,15 +8,15 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() French #hBar() Chinese],
+  info: [English (native) #hBar() German (native)],
 )
 
 #cvSkill(
   type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL],
+  info: [Python (Pandas/Numpy) #hBar() C++ #hBar() Ruby #hBar() Typst],
 )
 
 #cvSkill(
   type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading],
+  info: [Tennis #hBar() Weightlifting #hBar() Chess #hBar() Investing],
 )

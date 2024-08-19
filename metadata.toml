@@ -30,7 +30,7 @@ language = "en"
 
     [layout.entry]
         # Decide if you want to put your company in bold or your position in bold
-        display_entry_society_first = true
+        display_entry_society_first = false
 
         # Decide if you want to display organisation logo or not
         display_logo = true

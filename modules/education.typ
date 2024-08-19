@@ -40,13 +40,13 @@
 )
 
 #cvEntry(
-  title: [Bachelors of Science in Computer Science and Engineering],
-  society: [University of Michigan],
+  title: [Bachelor of Science in Engineering],
+  society: [University of Michigan College of Engineering],
   date: [2012 - 2016],
   location: [Ann Arbor, MI],
   logo: image("../src/logos/umich2.png"),
   description: list(
+    [Major in Computer Science & Engineering | Minor in Biochemistry],
     [GPA 3.90 / 4.00 #hBar() Dean's List Fall 2012 - Winter 2016, James B. Angell Scholar],
-    [Minor in Biochemistry],
   ),
 )

@@ -1,0 +1,42 @@
+# POSTER PRESENTATIONS ONLY. Add new presentations at top.
+# Required fields: title, authors, presenter, conference, location, date
+
+poster_ats_2020_michael:
+  title: "Predicting 90-Day Readmission Risk Among Chronic Obstructive Pulmonary Disease Patients: Gold Standard Cohort vs. Administrative Data"
+  authors: ["Hermsen, M.", "Bonomo, M.", "HEMMRICH, M.J.", "Kaskovich, S.", "Churpek, M.", "Press, V."]
+  presenter: MH
+  conference: American Thoracic Society International Conference
+  location: Virtual due to COVID
+  date: 2020-08-01
+
+poster_ats_2020_matt:
+  title: "Toward Personalized Care: The Value of Chart Reviewed Datasets in Predicting Cause of Readmission"
+  authors: ["Bonomo, M.", "Hermsen, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Churpek, M.", "Press, V."]
+  presenter: MB
+  conference: American Thoracic Society International Conference
+  location: Virtual due to COVID
+  date: 2020-08-01
+
+poster_glasgow_covid:
+  title: "Cancer, transplantation, and other immunocompromising conditions were not significantly associated with severe COVID-19 or death in hospitalized COVID-19 patients in Chicago"
+  authors: ["Sherer, R.", "UChicago COVID ID Consult Service Study Group"]
+  presenter: RS
+  conference: HIV Glasgow Congress
+  location: Virtual due to COVID
+  date: 2020-09-01
+
+poster_ats_2019_max:
+  title: "Accuracy Comparison of a Machine Learning Readmission Prediction Model with HOSPITAL and PEARL Scores for COPD Inpatients"
+  authors: ["HEMMRICH, M.J.", "Kaskovich, S.", "Churpek, M.", "Press, V."]
+  presenter: MJH
+  conference: American Thoracic Society International Conference
+  location: Dallas, TX
+  date: 2019-05-01
+
+poster_ats_2019_sam:
+  title: "Matching Patients with COPD to Personalized Care: A Novel Machine-Learning Tool to Predict Cause of 90-day Readmission"
+  authors: ["Kaskovich, S.", "HEMMRICH, M.J.", "Churpek, M.", "Press, V."]
+  presenter: SK
+  conference: American Thoracic Society International Conference
+  location: Dallas, TX
+  date: 2019-05-01

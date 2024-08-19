@@ -8,13 +8,13 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-  title: [Software Engineer],
+  title: [Software Engineer - Developer Platforms & Services],
   society: [Yahoo! Inc],
   logo: image("../src/logos/yahoo.png"),
   date: [2016-2017],
   location: [Sunnyvale, CA],
   description: list(
-    [Developer Platforms & Services - scaled centralized Github Enterprise instance to achieve 99.99% uptime],
-    [ADD MORE HERE MAYBE?],
+    [Built internal Ruby gem server to reduce dependence on external systems],
+    [Scaled centralized Github Enterprise instance to achieve 99.99% uptime],
   ),
 )

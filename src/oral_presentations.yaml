@@ -1,0 +1,26 @@
+# ORAL PRESENTATIONS ONLY. Add new presentations at top.
+# Required fields: title, authors, presenter, conference, location, date
+
+oral_sgim_2019:
+  title: Derivation and Validation of a COPD Readmission Risk Prediction Tool
+  authors: ["HEMMRICH, M.J.", "Churpek, M.", "Press, V."]
+  presenter: MJH
+  conference: Society of General Internal Medicine Regional Meeting
+  location: Minneapolis, MN
+  date: 2019-09-20
+
+oral_shm_2019:
+  title: Derivation and Validation of a COPD Readmission Risk Prediction Tool
+  authors: ["HEMMRICH, M.J.", "Churpek, M.", "Press, V."]
+  presenter: MJH
+  conference: Society of Hospital Medicine National Conference
+  location: National Harbor, MD
+  date: 2019-03-26
+
+oral_uchi_2018:
+  title: Derivation of a COPD Readmission Risk Prediction Tool
+  authors: ["HEMMRICH, M.J.", "Churpek, M.", "Press, V."]
+  presenter: MJH
+  conference: "University of Chicago Pritzker Summer Research Forum"
+  location: Chicago, IL
+  date: 2018-08-01
