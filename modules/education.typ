@@ -22,7 +22,7 @@
 )
 
 #cvEntry(
-  title: [Doctor of Medicine (MD)],
+  title: [Doctor of Medicine],
   society: [University of Chicago Pritzker School of Medicine],
   date: [2017 - 2021],
   location: [Chicago, IL],
@@ -48,5 +48,6 @@
   description: list(
     [Major in Computer Science & Engineering | Minor in Biochemistry],
     [GPA 3.90 / 4.00 #hBar() Dean's List Fall 2012 - Winter 2016, James B. Angell Scholar],
+    [Instructional Assistant for EECS482 (Operating Systems) and CHEM230 (Physical Chemistry)]
   ),
 )
