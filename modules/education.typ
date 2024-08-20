@@ -15,14 +15,14 @@
   location: [Chicago, IL],
   description: list(
     [Expected graduation June 2026],
-    [Passed USMLE Step 3],
+    [Passed USMLE Step 3 244 (1/2022)],
+    [Presented Grand Rounds on 3D Printing in OHNS, Optimization of Surgical Scars, and Immunotherapy in Head & Neck Cancer],
     [UPDATE THIS SECTION!],
-    [GRAND ROUNDS TOPICS?]
   ),
 )
 
 #cvEntry(
-  title: [Doctor of Medicine],
+  title: [Doctor of Medicine (M.D.)],
   society: [University of Chicago Pritzker School of Medicine],
   date: [2017 - 2021],
   location: [Chicago, IL],

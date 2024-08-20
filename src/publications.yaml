@@ -9,6 +9,13 @@ pub_casereport_pembro_BHT:
   status: Submitted
   date: 2026-01-01
 
+pub_MAUDE_cook_doppler:
+  title: "Adverse events associated with the Cook-Swartz Implanatable Doppler Probe for Free Flap Monitoring - a MAUDE Database review"
+  authors: ["HEMMRICH, M.J.", "Meleca, J.", "Arshad, H.", "Agrawal, N."]
+  journal: "American Head & Neck Society 2025 Annual Meeting at COSM"
+  status: Submitted
+  date: 2024-08-01
+
 pub_paper_copd_admin:
   title: "Comparison of Chart Review and Administrative Data in Developing Predictive Models for Readmissions in Chronic Obstructive Pulmonary Disease"
   authors: ["Chokkara, S.", "Bonomo, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Carey, K.", "Venable, L.", "Rojas, J.C.", "Churpek, M.", "Press, V."]
@@ -18,7 +25,7 @@ pub_paper_copd_admin:
 
 pub_casereport_chorda_schwannoma:
   title: Skull Base Plexiform Schwannoma of Possible Chorda Tympani Nerve Origin in a Three-year-old Patient
-  authors: ["Rama, N.", "Wallance, A", "HEMMRICH, M.J.", "Cipriani, N.", "Pasternak-Wise, O.", "Agrawal, N.", "Imbery, T."]
+  authors: ["Rama, N.", "Wallance, A.", "HEMMRICH, M.J.", "Cipriani, N.", "Pasternak-Wise, O.", "Agrawal, N.", "Imbery, T."]
   journal: "Otolaryngology Case Reports Vol. 31"
   status: Published
   date: 2024-06-01

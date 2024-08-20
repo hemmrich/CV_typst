@@ -9,8 +9,9 @@ language = "en"
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
     # You can also use a custom color by hex code i.e. "#1E90FF"
-    #awesome_color = "skyblue"
-    awesome_color = "#1C1685"
+    #awesome_color = "skyblue", "#1C1685", "#0b3d8a"
+    #awesome_color = "#1c3264" #color of suit in profile pic
+    awesome_color = "#1b3775"
 
     # Skips are for controlling the spacing between sections and entries
     before_section_skip = "1pt"
