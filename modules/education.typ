@@ -17,7 +17,7 @@
   description: list(
     [1-year clinical fellowship with emphasis on complex ablation, microvascular free tissue transfer, and transoral robotic surgery],
     [Clinical Instructor in the Department of Otolaryngology-Head & Neck Surgery],
-    [Passed American Board of Otolaryngolog - Head & Neck Surgery Written Qualifying Exam (2026)]
+    [Passed American Board of Otolaryngology - Head & Neck Surgery Written Qualifying Exam (7/2026)]
   ),
 )
 
