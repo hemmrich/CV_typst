@@ -1,6 +1,38 @@
 # POSTER PRESENTATIONS ONLY. Add new presentations at top.
 # Required fields: title, authors, presenter, conference, location, date
 
+poster_MAUDE_cook_doppler:
+  title: "Adverse events associated with the Cook-Swartz Implanatable Doppler Probe for Free Flap Monitoring - a MAUDE Database review"
+  authors: ["HEMMRICH, M.J.", "Meleca, J.", "Arshad, H.", "Agrawal, N."]
+  presenter: MJH
+  conference: American Academy of Otolaryngology-Head and Neck Surgery 2025 Annual Meeting
+  location: Indianapolis, IN
+  date: 2025-10-13
+
+poster_GOJO_roomentrances:
+  title: "Quantifying wake-up events of post-operative head & neck oncology patients on an otolaryngology inpatient floor"
+  authors: ["HEMMRICH, M.J.", "Auger, S.", "Blair, E.", "Portugal, L.", "Philips, R.", "Arshad, H.", "Agrawal, N."]
+  presenter: MJH
+  conference: American Academy of Otolaryngology-Head and Neck Surgery 2025 Annual Meeting
+  location: Indianapolis, IN
+  date: 2025-10-13
+
+poster_oncocytic_MEC:
+  title: "Parotid oncocytoma recurring as mucoepidermoid carcinoma – a case report"
+  authors: ["HEMMRICH, M.J.", "Karcioglu, A."]
+  presenter: MJH
+  conference: American Academy of Otolaryngology-Head and Neck Surgery 2025 Annual Meeting
+  location: Indianapolis, IN
+  date: 2025-10-13
+
+poster_pembro_bht:
+  title: "Black hairy tongue as a side effect of immune checkpoint inhibition - a case report"
+  authors: ["Madalone, O.", "Venigalla, M.", "HEMMRICH, M.J.", "Karcioglu, A."]
+  presenter: MJH
+  conference: American Academy of Otolaryngology-Head and Neck Surgery 2025 Annual Meeting
+  location: Indianapolis, IN
+  date: 2025-10-13
+
 poster_ats_2020_michael:
   title: "Predicting 90-Day Readmission Risk Among Chronic Obstructive Pulmonary Disease Patients: Gold Standard Cohort vs. Administrative Data"
   authors: ["Hermsen, M.", "Bonomo, M.", "HEMMRICH, M.J.", "Kaskovich, S.", "Churpek, M.", "Press, V."]
