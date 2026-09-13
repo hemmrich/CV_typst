@@ -9,7 +9,6 @@
   }
 }
 
-
 #show: cv.with(
   metadata, 
   profilePhoto: image("./src/headshot.png")

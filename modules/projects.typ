@@ -1,5 +1,5 @@
 // Imports
-#import "../template/template.typ": cvSection, cvEntry
+#import "../template/template.typ": cvSection, cvEntry, customSpace
 #let metadata = toml("../metadata.toml")
 #let cvSection = cvSection.with(metadata: metadata)
 #let cvEntry = cvEntry.with(metadata: metadata)
@@ -14,7 +14,9 @@
   location: [Chicago, IL],
   description: list(
     [Building model to predict progression of oral premalignant lesions based on deep learning of histopathology],
-    [Combined datasets from UChicago, University of Iowa, Brazil, and the NIH]
+    [Combined slides from UChicago, University of Iowa, Brazil, and the NIH to create largest known dataset in the world],
+    [Implemented and validated weakly-supervised learning of epithelial regions of interest],
+    [Training and validation of models using Slideflow ongoing]
   ),
 )
 
@@ -24,9 +26,9 @@
   date: [2024-current],
   location: [Chicago, IL],
   description: list(
-    [First prospective study to assess impact of resection margins on recurrence rate of cT1 and cT2 oral cavity SCC],
-    [Submitted IRB and created REDCap database for HIPAA-compliant data storage],
-    [Patient enrollment currently ongoing]
+    [Prospective study to assess impact of resection margins on recurrence rate of cT1 and cT2 oral cavity SCC],
+    [Worked with research assistant to create HIPAA-compliant REDCap database and obtain IRB approval],
+    [Patient recruitment and data collection ongoing]
   ),
 )
 
@@ -36,8 +38,7 @@
   date: [2018-2021],
   location: [Chicago, IL],
   description: list(
-    [PI: Valerie Press, MD, MPH],
-    [Built machine learning model using electronic health record data to predict risk of readmission after COPD excerbation],
+    [Built machine learning model using electronic health record data to predict risk of readmission after COPD exacerbation],
     [Disseminated findings at international, national, and regional conferences],
     [Received Healthcare Delivery Science Award for research excellence at 2018 Pritzker Summer Research Forum],
     [Received Health Service Research Abstract Award at 2019 American Thoracic Society International Conference],

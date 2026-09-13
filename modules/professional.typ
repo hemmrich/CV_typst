@@ -1,5 +1,5 @@
 // Imports
-#import "../template/template.typ": cvSection, cvEntry
+#import "../template/template.typ": cvSection, cvEntry, customSpace
 #let metadata = toml("../metadata.toml")
 #let cvSection = cvSection.with(metadata: metadata)
 #let cvEntry = cvEntry.with(metadata: metadata)

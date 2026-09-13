@@ -1,5 +1,5 @@
 // Imports
-#import "../template/template.typ": cvSection, cvPublication
+#import "../template/template.typ": cvSection, cvPublication, customSpace
 #let metadata = toml("../metadata.toml")
 #let cvSection = cvSection.with(metadata: metadata)
 
@@ -16,10 +16,18 @@
 
     if presentation {
       "Presented by " + details.presenter + " at " + details.conference +  ", " + details.location + "."
-    } else {
+    } 
+    else if details.status == "Submitted_Book" {
+      //Author AA, Author BB. Title of chapter. In: Editor AA, Editor BB, eds. Book Title. Vol no. Nth ed. Publisher; Year:page numbers. Accessed Month DD, YYYY. DOI or URL
+      { "In: " + details.editors + ", eds. " + text(details.book, style:"italic") + ". Forthcoming from " + details.publisher + "."}
+    }
+     
+    else {
       if details.status == "Published" { "Published in " + details.journal + "." } 
+      else if details.status == "Accepted" { "Accepted by " + details.journal + "." }
       else if details.status == "Submitted" { "Submitted to " + details.journal + "." }
       else if details.status == "Revision" { "Submitted to " + details.journal + ", undergoing revisions."}
+      else if details.status == "Will_Submit" { "Will submit to " + details.journal + " when Call for Science opens Dec 2, 2024"}
     }
 
     parbreak()

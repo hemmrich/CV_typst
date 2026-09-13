@@ -2,7 +2,7 @@
 * Functions for the CV template
 */
 
-#import "@preview/fontawesome:0.2.1": *
+#import "@preview/fontawesome:0.6.2": *
 #import "./styles.typ": latinFontList, latinHeaderFont, awesomeColors, regularColors, setAccentColor, hBar
 
 /// Insert the header section of the CV.
@@ -72,7 +72,7 @@
         let img = v.at("image", default: "")
         let awesomeIcon = v.at("awesomeIcon", default: "")
         let text = v.at("text", default: "")
-        let link_value = v.at("link", default: "")
+        let link_value = v.at("link", default: "asdf")
         let icon = ""
         if img != "" {
           icon = img.with(width: 10pt)
@@ -229,6 +229,11 @@
   }
   h(2pt)
   box(width: 1fr, line(stroke: 0.9pt, length: 100%))
+}
+
+/// Adding custom space function to prevent weird page breaks
+#let customSpace() = {
+  text(" ")
 }
 
 /// Add an entry to the CV.

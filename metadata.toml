@@ -55,7 +55,7 @@ language = "en"
         [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
             awesomeIcon = "location-dot" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
-            text = "6 S Laflin St, Apt 907, Chicago, IL 60607"
+            text = "302 Mark Hannah Pl, Ann Arbor, MI 48103"
 
 # add a new section if you want to include the language of your choice
 # i.e. [[lang.ru]]

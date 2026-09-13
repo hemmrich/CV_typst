@@ -2,12 +2,42 @@
 # Required fields: title, authors, journal, status, date
 # Status: Submitted -> Review -> Revision -> Published
 
-pub_casereport_pembro_BHT:
-  title: "asdfasdf"
-  authors: ["asdfasdf"]
-  journal: "asdf"
+pub_GOJO_roomentrances:
+  title: "Quantifying wake-up events of post-operative head & neck oncology patients on an otolaryngology inpatient floor"
+  authors: ["HEMMRICH, M.J.", "Auger, S.", "Blair, E.", "Portugal, L.", "Philips, R.", "Arshad, H.", "Agrawal, N."]
+  journal: "American Academy of Otolaryngology-Head and Neck Surgery 2025 Annual Meeting"
   status: Submitted
-  date: 2026-01-01
+  date: 2024-12-14
+
+pub_paper_copd_admin:
+  title: "Comparison of Chart Review and Administrative Data in Developing Predictive Models for Readmissions in Chronic Obstructive Pulmonary Disease"
+  authors: ["Chokkara, S.", "Bonomo, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Carey, K.", "Venable, L.", "Rojas, J.C.", "Churpek, M.", "Press, V."]
+  journal: "Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation"
+  status: Accepted
+  date: 2024-12-08
+
+pub_chapter_high_risk_thyroid:
+  title: "Management of High-Risk Thyroid Cancer"
+  authors: ["Grande, D.*, HEMMRICH, M.J.*", "Agrawal, N."]
+  book: "Head and Neck Surgery - Volumes I & II (2nd Edition)"
+  editors: "Modi, R., Chaturvedi, P., de Souza, C."
+  publisher: "Bhalani Medical Book House"
+  status: Submitted_Book
+  date: 2024-11-25
+
+pub_casereport_oncocytic_MEC:
+  title: "Parotid oncocytoma recurring as mucoepidermoid carcinoma – a case report"
+  authors: ["HEMMRICH, M.J.", "Karcioglu, A."]
+  journal: "American Head & Neck Society 2025 Annual Meeting at COSM"
+  status: Submitted
+  date: 2024-10-01
+
+pub_casereport_pembro_bht:
+  title: "Black hairy tongue as a side effect of immune checkpoint inhibition - a case report"
+  authors: ["Madalone, O.", "Venigalla, M.", "HEMMRICH, M.J.", "Karcioglu, A."]
+  journal: "American Head & Neck Society 2025 Annual Meeting at COSM"
+  status: Submitted
+  date: 2024-10-01
 
 pub_MAUDE_cook_doppler:
   title: "Adverse events associated with the Cook-Swartz Implanatable Doppler Probe for Free Flap Monitoring - a MAUDE Database review"
@@ -16,20 +46,12 @@ pub_MAUDE_cook_doppler:
   status: Submitted
   date: 2024-08-01
 
-pub_paper_copd_admin:
-  title: "Comparison of Chart Review and Administrative Data in Developing Predictive Models for Readmissions in Chronic Obstructive Pulmonary Disease"
-  authors: ["Chokkara, S.", "Bonomo, M.", "Kaskovich, S.", "HEMMRICH, M.J.", "Carey, K.", "Venable, L.", "Rojas, J.C.", "Churpek, M.", "Press, V."]
-  journal: "Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation"
-  status: Revision
-  date: 2024-07-08
-
 pub_casereport_chorda_schwannoma:
   title: Skull Base Plexiform Schwannoma of Possible Chorda Tympani Nerve Origin in a Three-year-old Patient
-  authors: ["Rama, N.", "Wallance, A.", "HEMMRICH, M.J.", "Cipriani, N.", "Pasternak-Wise, O.", "Agrawal, N.", "Imbery, T."]
+  authors: ["Rama, N.", "Wallace, A.", "HEMMRICH, M.J.", "Cipriani, N.", "Pasternak-Wise, O.", "Agrawal, N.", "Imbery, T."]
   journal: "Otolaryngology Case Reports Vol. 31"
   status: Published
   date: 2024-06-01
-
 
 pub_paper_predict_copd:
   title: Using Machine Learning to Predict Likelihood and Cause of Readmission After Hospitalization for Chronic Obstructive Pulmonary Disease Exacerbation
@@ -37,7 +59,6 @@ pub_paper_predict_copd:
   journal: "International Journal of Chronic Obstructive Pulmonary Disease"
   status: Published
   date: 2022-10-01
-
 
 pub_casereport_parathyroid:
   title: "Large non-functioning substernal parathyroid cyst: A case report and review of the literature"

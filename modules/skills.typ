@@ -13,7 +13,7 @@
 
 #cvSkill(
   type: [Tech Stack],
-  info: [Python (Pandas/Numpy) #hBar() C++ #hBar() Ruby #hBar() Git],
+  info: [Python (Pandas/Numpy/Jupyter) #hBar() C++ #hBar() Ruby #hBar() Git],
 )
 
 #cvSkill(

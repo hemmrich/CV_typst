@@ -1,5 +1,5 @@
 // Imports
-#import "../template/template.typ": cvSection, cvEntry, hBar
+#import "../template/template.typ": cvSection, cvEntry, hBar, customSpace
 #let metadata = toml("../metadata.toml")
 #let cvSection = cvSection.with(metadata: metadata)
 #let cvEntry = cvEntry.with(metadata: metadata)
@@ -7,17 +7,30 @@
 
 #cvSection("Education")
 
+
+#cvEntry(
+  title: [Fellow, Head & Neck Surgical Oncology and Microvascular Reconstruction],
+  society: [Michigan Medicine],
+  logo: image("../src/logos/umich2.png"),
+  date: [2026-current],
+  location: [Ann Arbor, MI],
+  description: list(
+    [1-year clinical fellowship with emphasis on complex ablation, microvascular free tissue transfer, and transoral robotic surgery],
+    [Clinical Instructor in the Department of Otolaryngology-Head & Neck Surgery],
+    [Passed American Board of Otolaryngolog - Head & Neck Surgery Written Qualifying Exam (2026)]
+  ),
+)
+
 #cvEntry(
   title: [Resident Physician, Otolaryngology-Head&Neck Surgery],
   society: [University of Chicago Medical Center],
   logo: image("../src/logos/ucmc.png"),
-  date: [2021-current],
+  date: [2021-2026],
   location: [Chicago, IL],
   description: list(
-    [Expected graduation June 2026],
+    [Completed 5-year residency at a busy tertiary care center with high volumes of head and neck cancer and facial trauma],
     [Passed USMLE Step 3 244 (1/2022)],
-    [Presented Grand Rounds on 3D Printing in OHNS, Optimization of Surgical Scars, and Immunotherapy in Head & Neck Cancer],
-    [UPDATE THIS SECTION!],
+    [Presented Grand Rounds on 3D Printing in OHNS, Optimization of Surgical Scars, Immunotherapy in Head & Neck Cancer, and Factors that Affect Free Flap Outcomes],
   ),
 )
 
